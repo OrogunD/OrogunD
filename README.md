@@ -2,7 +2,7 @@
 
 Cyber security graduate (First Class, Nottingham Trent University) studying for an MSc in Cyber Security at the University of Liverpool.
 
-Until September 2026 I was a Cyber Security Analyst at the Charity Commission for England and Wales, where I investigated Microsoft Sentinel incidents, remediated BlueMoon exploit kit exposure across 300+ devices, and tested an automated device isolation workflow that is now live.
+Until September 2026, I was a Cyber Security Analyst at the Charity Commission for England and Wales, where I investigated Microsoft Sentinel incidents, remediated BlueMoon exploit kit exposure across 300+ devices, and tested an automated device isolation workflow that is now live.
 
 This profile is where I keep my security projects and writeups.
 
